@@ -434,6 +434,7 @@ boothText:FireServer([[💸  Earn BOBUX!!  💸
             task.wait(1)
 boothText:FireServer([[💸  Earn BOBUX!!  💸
 🤘 Casino mania, the best money maker!
+
 [--Casino-Mania------]
 
 🏓  Type ".help" to get started!  🤙]], "booth")
