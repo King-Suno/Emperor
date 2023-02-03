@@ -6,7 +6,7 @@ local Scammed = 0
     local Unclaimed = {}
     local ErrorCount = -1
     local queueonteleport = (syn and syn.queue_on_teleport) or queue_on_teleport or (fluxus and fluxus.queue_on_teleport)
-    queueonteleport("loadstring(game:HttpGet(''))()")
+    queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/King-Suno/Emperor/main/PlsDonate'))()")
     if not getgenv().CasinoSettings then
         getgenv().CasinoSettings = {
             ['ServerHopDelay'] = 30,
